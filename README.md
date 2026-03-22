@@ -5,7 +5,7 @@ Projekt zrealizowany w ramach międzynarodowego konkursu **CanSat**, polegające
 
 🔗 **Więcej informacji o zespole i misji:** https://gniesat.wordpress.com/
 
-🔗 ****Link do dokumentacji:** https://docs.google.com/document/d/1cAFIL4f8U8LUP7mU3SaD9rLaUP9kgKxzTQNRifA5BvA/edit?usp=sharing
+🔗 **Link do dokumentacji:** https://docs.google.com/document/d/1cAFIL4f8U8LUP7mU3SaD9rLaUP9kgKxzTQNRifA5BvA/edit?usp=sharing
 
 ---
 
