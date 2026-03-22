@@ -4,6 +4,7 @@
 Projekt zrealizowany w ramach międzynarodowego konkursu **CanSat**, polegającego na budowie symulatora sondy kosmicznej. Nasz zespół opracował kompletny system misji, a kluczowym elementem infrastruktury była inteligentna stacja naziemna (Ground Support Equipment).
 
 🔗 **Więcej informacji o zespole i misji:** [https://gniesat.wordpress.com/]
+🔗 **Link do dokumentacji:[https://docs.google.com/document/d/1cAFIL4f8U8LUP7mU3SaD9rLaUP9kgKxzTQNRifA5BvA/edit?usp=sharing]
 
 ---
 
